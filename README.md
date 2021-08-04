@@ -12,4 +12,4 @@ I make this project for fun. If you think this project is interesting and want t
 
 ## License
 
-MIT
+View [Licenese](LICENESE)
